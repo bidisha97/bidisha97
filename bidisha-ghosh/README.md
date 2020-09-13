@@ -1,7 +1,7 @@
 # Hi there 👋
 
 'I am Bidisha Ghosh.
-** My area of interest is Machine Learning and Time Series Modelling.I have also worked with Tableau and My-SQL.
+* My area of interest is Machine Learning and Time Series Modelling.I have also worked with Tableau and My-SQL.
    Creating Dashboards and storytelling is one of the most interesting part of analytics and this role can be termed as
    * Data Artist.
 
@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: You can call Spanish music lover.
 - ⚡ Fun fact: Cooking new dishes makes me happy :heart:
 
--->
+
