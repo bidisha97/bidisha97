@@ -1,3 +1,7 @@
+
+https://www.linkedin.com/in/bidisha-ghosh-2a696b178/   mailto:bidishaghosh82@gmail.com
+
+
 # Hi there 👋
 
 ' I am Bidisha Ghosh.:smile:
