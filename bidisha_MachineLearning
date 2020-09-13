@@ -1,0 +1,12 @@
+# Machine Learning Topics;
+'''
+   Linear Regression.
+   Logistic Regression.
+   KNN.
+   Clustering.
+   Random Forest.
+   Decision Tree.
+   Gradient Boosting.
+   Ensemble Methods.
+   Evaluation Matrix(precision,recall,F1 score,accuracy,specificity,sensivisity)
+   Elbow curve,ROC-AUC. 
